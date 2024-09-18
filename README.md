@@ -3,6 +3,7 @@ The goal of this project is to predict the likelihood of wildfires based on the 
 This project makes use of the Random Forest Classifier to build the prediction model and Folium to create a geographical heatmap of wildfire predictions.
 
 Data
+
 The dataset used in this project is sourced from MODIS satellite data in South Africa for the year 2023. 
 The dataset includes information such as latitude, longitude, brightness, scan, track, and fire radiative power (FRP).
 
