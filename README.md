@@ -19,10 +19,15 @@ FRP: Fire Radiative Power, the energy emitted by the fire
 To run this project, you will need the following Python libraries:
 
 pandas
+
 NumPy
+
 sci-kit-learn
+
 seaborn
+
 matplotlib
+
 folium
 
 Model Metrics:
